@@ -1,1 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    box-shadow: none;
+}
 
+.head {
+    background-color: rgb(1, 121, 108);
+}
+.head-b {
+    background-color: rgb(0, 131, 117);
+
+}
+.btn-color {
+    background-color: rgb(26, 144, 129);
+    border-radius: 30px ;
+    color: white;
+    box-shadow: 0px 0px 1px 0px;
+}
+.about {
+    margin-top: 100px;
+}
+.about-img {
+    height: 350px;
+    width: 90%;
+    margin-bottom: 200px;
+}
+.box {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: relative;
+    bottom: 130px;
+    box-shadow: 0px 0px 8px 0px;
+
+    
+    
+}
+
+.ic-size {
+    font-size: 50px;
+    
+
+}
